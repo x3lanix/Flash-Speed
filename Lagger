@@ -1,4 +1,3 @@
--- adjust yo shi here
 getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/placeholder"
 getgenv().TARGET_USER_ID = 3723877325
 getgenv().TARGET_PETS = {
